@@ -1,0 +1,14 @@
+section {
+  background-color: rgb(135,206,235);
+  border: 5px solid rgba(72,205,49,255);
+  margin: 32px;
+  padding: 50px;
+  width: 800px;
+  color: white;
+}
+
+img {
+  float: right;
+  width: 200;
+  height: 200;
+}

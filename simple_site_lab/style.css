@@ -1,14 +1,45 @@
+*{
+  box-sizing: border-box;
+}
+
+div {
+    background-color: rgb(135,206,235);
+    width: 550px;
+    padding: 25px 0 25px 25px;
+    
+}
+
 section {
+  
   background-color: rgb(135,206,235);
   border: 5px solid rgba(72,205,49,255);
-  margin: 32px;
   padding: 50px;
-  width: 800px;
+  width: 500px;
   color: white;
+  font-family: Roboto;
 }
+
+h1 {
+  text-align: center;
+  font-style: italic;
+}
+
 
 img {
   float: right;
-  width: 200;
-  height: 200;
+  margin-right: 0;
+  height: 200px;
+}
+
+h4 {
+  font-family: 'Helvetica';
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  color: rgba(72,205,49,255);
 }

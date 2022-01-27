@@ -1,0 +1,19 @@
+header {
+  height: 100px;
+}
+
+section {
+  box-sizing: border-box;
+  height: 200px;
+  width: 33.333%;
+  float: left;
+  border: 2px solid black;
+}
+
+div {
+  box-sizing: border-box;
+  height: 300px;
+  width: 50%;
+  float: left;
+  border: 2px solid black;
+}
